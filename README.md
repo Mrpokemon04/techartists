@@ -8,6 +8,6 @@ Technology: Android Studio
 
 Language: English
 
-Pitch:
+Pitch: https://drive.google.com/file/d/1OyMWAUhpRZZ80QZtZwpknwmVEl1QIplN/view?usp=drive_link
 
-Demo:
+Demo: 
