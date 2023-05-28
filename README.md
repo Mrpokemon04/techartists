@@ -1,8 +1,8 @@
 # Tech Artists
 
-Numele echipei: Tech Artists
+Team name: Tech Artists
 
-Scoala de provenienta: Colegiul National "Ion Neculce"
+School: Colegiul National "Ion Neculce"
 
 Technology: Android Studio
 
